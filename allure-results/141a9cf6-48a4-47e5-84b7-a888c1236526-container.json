@@ -1,0 +1,1 @@
+{"uuid":"141a9cf6-48a4-47e5-84b7-a888c1236526","name":"org.reacarolyn.AppTest.setup","children":["d1fa12a2-6926-4cee-864a-956ed07e3c4a"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1678748830609,"stop":1678748834383}],"afters":[],"start":1678748830609,"stop":1678748834383}
